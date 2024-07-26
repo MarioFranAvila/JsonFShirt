@@ -1,0 +1,455 @@
+[
+  {
+    "id": 1,
+    "nombre": "Camiseta Real Madrid CF",
+    "tallas_disponibles": ["S", "M", "L", "XL"],
+    "categoria": "equipo",
+    "imagen_destacada": "https://assets.adidas.com/images/w_1880,f_auto,q_auto/78b62417f1e042aeb25e3353d278de3b_9366/IX8095_HM1.jpg",
+    "precio": 43500,
+    "stock": "disponible online y en tienda física",
+    "descripcion": "Camiseta unisex oficial del Real Madrid CF para la temporada 2024/25.",
+    "galeria_imagenes": [
+"https://assets.adidas.com/images/w_1880,f_auto,q_auto/6c7f9d1f8c2b4892b5412c10969f6971_9366/IX8095_HM3_hover.jpg",
+"https://assets.adidas.com/images/w_1880,f_auto,q_auto/34b687626e3349f8a7497a982396be71_9366/IX8095_HM5.jpg",
+"https://assets.adidas.com/images/w_1880,f_auto,q_auto/84528768d4d14cd58456c11b4d3d9ea5_9366/IX8095_HM6.jpg"
+    ],
+    "tiempos_entrega": {
+      "envio_postal": "3-5 días laborables",
+      "recogida_en_tienda": "Disponible en 2 días"
+    },
+    "gastos_envio": 4000,
+    "opciones_entrega": ["envío postal", "recogida en tienda"],
+    "enlace_informacion_cambios_devoluciones": "InformacionCambios.html",
+    "enlace_contacto_ayuda": "Contacto.html",
+    "garantia_producto": "40 días",
+    "reseña_usuarios": {
+      "valoracion_media": 5,
+      "reseñas": [
+        {
+          "usuario": "Pablo Jimenez",
+          "comentario": "Me gustó mucho, muy buenas camisas.",
+          "estrellas": 5
+        },
+        {
+          "usuario": "Jose Perez",
+          "comentario": "Todo bien, aunque tenía unos detalles en la manga.",
+          "estrellas": 5
+        }
+      ]
+    }
+  },
+ {
+    "id": 2,
+    "nombre": "Camiseta FC Barcelona",
+    "tallas_disponibles": ["S", "M", "L", "XL"],
+    "categoria": "equipo",
+    "imagen_destacada": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/b36dee0e-85b7-481b-987c-e942f44fc62f/FCB+MNK+DFADV+JSYSS+MATCH+HM.png",
+    "precio": 42400,
+    "stock": "disponible online y en tienda física",
+    "descripcion": "Camiseta unisex oficial del FC Barcelona para la temporada 2024/25.",
+    "galeria_imagenes": [
+"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d1743a09-bf42-409c-abe0-bb0416074d71/FCB+W+NK+DF+STAD+JSY+SS+HM.png",
+"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b47d7b53-2bd4-4685-86da-c43b0090aa05/FCB+MNK+DFADV+JSYSS+MATCH+HM.png",
+"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/460ed63b-9f82-4aff-a390-94db76729f9d/FCB+W+NK+DF+STAD+JSY+SS+HM.png"
+    ],
+    "tiempos_entrega": {
+      "envio_postal": "3-5 días laborables",
+      "recogida_en_tienda": "Disponible en 2 días"
+    },
+    "gastos_envio": 4000,
+    "opciones_entrega": ["envío postal", "recogida en tienda"],
+    "enlace_informacion_cambios_devoluciones": "InformacionCambios.html",
+    "enlace_contacto_ayuda": "Contacto.html",
+    "garantia_producto": "40 días",
+    "reseña_usuarios": {
+      "valoracion_media": 5,
+      "reseñas": [
+        {
+          "usuario": "Johel Alvarado",
+          "comentario": "Pura calidad de primera, ninguna queja.",
+          "estrellas": 5
+        },
+        {
+          "usuario": "Santiago Masís",
+          "comentario": "Todo muy bueno, me gustó mucho la calidad de la tela.",
+          "estrellas": 5
+        }
+      ]
+    }
+  },
+ {
+    "id": 3,
+    "nombre": "Camiseta AC Milan",
+    "tallas_disponibles": ["S", "M", "L", "XL"],
+    "categoria": "equipo",
+    "imagen_destacada": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/774979/01/mod01/fnd/PNA/fmt/png/Camiseta-local-r%C3%A9plica-AC-Milan-24/25-para-hombre",
+    "precio": 44000,
+    "stock": "disponible online y en tienda física",
+    "descripcion": "Camiseta unisex oficial del AC Milan para la temporada 2024/25.",
+    "galeria_imagenes": [
+"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/774980/01/mod01/fnd/PNA/fmt/png/AC-Milan-24/25-Women's-Home-Jersey",
+"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/774979/01/mod04/fnd/PNA/fmt/png/Camiseta-local-r%C3%A9plica-AC-Milan-24/25-para-hombre",
+"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/774980/01/mod05/fnd/PNA/fmt/png/AC-Milan-24/25-Women's-Home-Jersey"
+    ],
+    "tiempos_entrega": {
+      "envio_postal": "3-5 días laborables",
+      "recogida_en_tienda": "Disponible en 2 días"
+    },
+    "gastos_envio": 4000,
+    "opciones_entrega": ["envío postal", "recogida en tienda"],
+    "enlace_informacion_cambios_devoluciones": "InformacionCambios.html",
+    "enlace_contacto_ayuda": "Contacto.html",
+    "garantia_producto": "40 días",
+    "reseña_usuarios": {
+      "valoracion_media": 4,
+      "reseñas": [
+        {
+          "usuario": "Daniel Guzmán",
+          "comentario": "Pedí una talla y me dieron otra, pero aún así, me gustó la calidad.",
+          "estrellas": 3
+        },
+        {
+          "usuario": "Cristian Sanchez",
+          "comentario": "Todo en buen estado, ni un defecto, 10/10.",
+          "estrellas": 5
+        }
+      ]
+    }
+  },
+ {
+    "id": 4,
+    "nombre": "Camiseta Borussia Dortmund 2024/25",
+    "tallas_disponibles": ["S", "M", "L", "XL"],
+    "categoria": "equipo",
+    "imagen_destacada": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/774946/01/mod01/fnd/PNA/fmt/png/Camiseta-local-r%C3%A9plica-Borussia-Dortmund-24/25-para-hombre",
+    "precio": 43500,
+    "stock": "disponible online y en tienda física",
+    "descripcion": "Camiseta unisex oficial del Borussia Dortmund para la temporada 2024/2025.",
+    "galeria_imagenes": [
+"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/780024/01/mod04/fnd/PNA/fmt/png/Borussia-Dortmund-24/25-Women's-Replica-Home-Soccer-Jersey",
+"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/774946/01/mod02/fnd/PNA/fmt/png/Camiseta-local-r%C3%A9plica-Borussia-Dortmund-24/25-para-hombre",
+"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/780024/01/mod03/fnd/PNA/fmt/png/Borussia-Dortmund-24/25-Women's-Replica-Home-Soccer-Jersey"
+    ],
+    "tiempos_entrega": {
+      "envio_postal": "3-5 días laborables",
+      "recogida_en_tienda": "Disponible en 2 días"
+    },
+    "gastos_envio": 4000,
+    "opciones_entrega": ["envío postal", "recogida en tienda"],
+    "enlace_informacion_cambios_devoluciones": "InformacionCambios.html",
+    "enlace_contacto_ayuda": "Contacto.html",
+    "garantia_producto": "40 días",
+    "reseña_usuarios": {
+      "valoracion_media": 5,
+      "reseñas": [
+        {
+          "usuario": "Joshua Solis",
+          "comentario": "La calidad es muy alta y en general, cumplen con lo que se muestra.",
+          "estrellas": 5
+        },
+        {
+          "usuario": “Dana Chavarría",
+          "comentario": "Me gusta que sea talla unisex, pensé que solo sería para hombre.",
+          "estrellas": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "nombre": "Camiseta Manchester City FC",
+    "tallas_disponibles": ["S", "M", "L", "XL"],
+    "categoria": "equipo",
+    "imagen_destacada": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/775075/01/mod01/fnd/PNA/fmt/png/Camiseta-local-Manchester-City-24/25-para-hombre",
+    "precio": 44600,
+    "stock": "disponible online y en tienda física",
+    "descripcion": "Camiseta unisex oficial del Manchester City FC para la temporada 2024/25.",
+    "galeria_imagenes": [
+"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/775075/01/mod05/fnd/PNA/fmt/png/Camiseta-local-Manchester-City-24/25-para-hombre",
+"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/775075/01/mod04/fnd/PNA/fmt/png/Camiseta-local-Manchester-City-24/25-para-hombre",
+"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/775075/01/mod03/fnd/PNA/fmt/png/Camiseta-local-Manchester-City-24/25-para-hombre"
+    ],
+    "tiempos_entrega": {
+      "envio_postal": "3-5 días laborables",
+      "recogida_en_tienda": "Disponible en 2 días"
+    },
+    "gastos_envio": 4000,
+    "opciones_entrega": ["envío postal", "recogida en tienda"],
+    "enlace_informacion_cambios_devoluciones": "InformacionCambios.html",
+    "enlace_contacto_ayuda": "Contacto.html",
+    "garantia_producto": "40 días",
+    "reseña_usuarios": {
+      "valoracion_media": 5,
+      "reseñas": [
+        {
+          "usuario": "Alberto Toril",
+          "comentario": "Muy bueno todo, buena comunicación y sobre todo, buena selección de camisas.",
+          "estrellas": 5
+        },
+        {
+          "usuario": "Allison Durán",
+          "comentario": "Me gustó, aunque tenía un detalle en la parte del costado.",
+          "estrellas": 5
+        }
+      ]
+    }
+  },
+ {
+    "id": 6,
+    "nombre": "Camiseta Liga Deportiva Alajuelense Retro",
+    "tallas_disponibles": ["S", "M", "L", "XL"],
+    "categoria": "equipo",
+    "imagen_destacada": "https://ldawpstorage.blob.core.windows.net/ldawpcontainer/2024/05/17-1-scaled.jpg",
+    "precio": 42500,
+    "stock": "disponible online y en tienda física",
+    "descripcion": "Camiseta unisex oficial del Ligas Deportiva Alajuelense, haciendo un homenaje al campeonato de la Concacaf Champions League, en 2004.",
+    "galeria_imagenes": [
+      "https://ldawpstorage.blob.core.windows.net/ldawpcontainer/2024/05/17-2.png",
+ "https://ldawpstorage.blob.core.windows.net/ldawpcontainer/2024/05/127A9494-scaled.jpg",
+  "https://ldawpstorage.blob.core.windows.net/ldawpcontainer/2024/05/127A9497-scaled.jpg"
+    ],
+    "tiempos_entrega": {
+      "envio_postal": "3-5 días laborables",
+      "recogida_en_tienda": "Disponible en 2 días"
+    },
+    "gastos_envio": 4000,
+    "opciones_entrega": ["envío postal", "recogida en tienda"],
+   "enlace_informacion_cambios_devoluciones": "InformacionCambios.html",
+    "enlace_contacto_ayuda": "Contacto.html",
+    "garantia_producto": “40 días",
+    "reseña_usuarios": {
+      "valoracion_media": 5,
+      "reseñas": [
+        {
+          "usuario": "Genesis González",
+          "comentario": "Me encantó la tela que posee.",
+          "estrellas": 5
+        },
+        {
+          "usuario": "Shanin Durán",
+          "comentario": "Muy buena calidad en esta camisa, ni un defecto.",
+          "estrellas": 5
+        }
+      ]
+    }
+  },
+ {
+    "id": 7,
+    "nombre": "Camiseta local Japón 24",
+    "tallas_disponibles": ["S", "M", "L", "XL"],
+    "categoria": "selección",
+    "imagen_destacada": “https://assets.adidas.com/images/w_1880,f_auto,q_auto/add10ec3545345cb8222aa948abb2d7c_9366/IU0964_21_model.jpg”,
+    "precio": 44200,
+    "stock": "disponible online y en tienda física",
+    "descripcion": "Camiseta unisex oficial de la selección japonesa para el 2024”,
+    "galeria_imagenes": [
+"https://assets.adidas.com/images/w_1880,f_auto,q_auto/6bb6f0f7a8254a9fb7c7faee427940cc_9366/IU0964_22_model.jpg",  "https://assets.adidas.com/images/w_1880,f_auto,q_auto/3a99cb7befd744c7a5cfafee1d35156b_9366/IU0964_23_hover_model.jpg",   "https://assets.adidas.com/images/w_1880,f_auto,q_auto/98f1f3ef53cb4d339fcc44b0b00ab6f8_9366/IU0964_25_model.jpg"
+    ],
+    "tiempos_entrega": {
+      "envio_postal": "3-5 días laborables",
+      "recogida_en_tienda": "Disponible en 2 días"
+    },
+    "gastos_envio": 4000,
+    "opciones_entrega": ["envío postal", "recogida en tienda"],
+    "enlace_informacion_cambios_devoluciones": "InformacionCambios.html",
+    "enlace_contacto_ayuda": "Contacto.html",
+    "garantia_producto": "40 días",
+    "reseña_usuarios": {
+      "valoracion_media": 5,
+      "reseñas": [
+        {
+          "usuario": "Pablo Ávila",
+          "comentario": "Excelente calidad, muy bonita.",
+          "estrellas": 5
+        },
+        {
+          "usuario": "Saimon Rojas",
+          "comentario": "Buena camiseta.",
+          "estrellas": 5
+        }
+      ]
+    }
+  },
+ {
+    "id": 8,
+    "nombre": "Camiseta local Costa Rica 24",
+    "tallas_disponibles": ["S", "M", "L", "XL"],
+    "categoria": "selección",
+    "imagen_destacada": "https://assets.adidas.com/images/w_1880,f_auto,q_auto/e7f82d13bcc8418e9f4d28ef9f547ce1_9366/JK0021_01_laydown.jpg",
+    "precio": 40000,
+    "stock": "disponible online y en tienda física",
+    "descripcion": "Camiseta unisex oficial de la selección de Costa Rica para el 2024”,
+    "galeria_imagenes": [
+"https://i2.wp.com/www.fcrf.cr/wp-content/uploads/2024/05/1BC2372F-841F-4D03-9E7A-A1D42F87EEC9-scaled.jpeg?fit=1080%2C720&ssl=1",    "https://assets.adidas.com/images/w_1880,f_auto,q_auto/bfa7f789198e4785a40b92b77ab9f5ed_9366/JK0021_02_laydown_hover.jpg",    "https://assets.adidas.com/images/w_1880,f_auto,q_auto/8f63669fb3894e358fa48d05bea37ca7_9366/JK0021_41_detail.jpg"
+    ],
+    "tiempos_entrega": {
+      "envio_postal": "3-5 días laborables",
+      "recogida_en_tienda": "Disponible en 2 días"
+    },
+    "gastos_envio": 4000,
+    "opciones_entrega": ["envío postal", "recogida en tienda"],
+    "enlace_informacion_cambios_devoluciones": "InformacionCambios.html",
+    "enlace_contacto_ayuda": "Contacto.html",
+    "garantia_producto": "40 días",
+    "reseña_usuarios": {
+      "valoracion_media": 4,
+      "reseñas": [
+        {
+          "usuario": "Sofía Jiménez",
+          "comentario": "Demasiado bonita.",
+          "estrellas": 4
+        },
+        {
+          "usuario": "Luis Salazar",
+          "comentario": "Me gusta, lindo diseño.",
+          "estrellas": 4
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "nombre": "Camiseta retro Alemania 96",
+    "tallas_disponibles": ["S", "M", "L", "XL"],
+    "categoria": "selección",
+    "imagen_destacada": "https://assets.adidas.com/images/w_1880,f_auto,q_auto/3a9fe486b4a448359c058e39fea5265b_9366/IT7749_HM1.jpg",
+    "precio": 41200,
+    "stock": "disponible online y en tienda física",
+    "descripcion": "Camiseta unisex retro, oficial de la selección Alemana en 1996”,
+    "galeria_imagenes": [   "https://assets.adidas.com/images/w_1880,f_auto,q_auto/712667a06a3b4f3eafad81a5ebd21194_9366/IT7749_HM4_hover.jpg",    "https://assets.adidas.com/images/w_1880,f_auto,q_auto/8890f8e200c24ab8b7e7461f973febfd_9366/IT7749_HM5.jpg",    "https://assets.adidas.com/images/w_1880,f_auto,q_auto/6c8441b3dab7466ab17fd62bd517f619_9366/IT7749_HM6.jpg"
+    ],
+    "tiempos_entrega": {
+      "envio_postal": "3-5 días laborables",
+      "recogida_en_tienda": "Disponible en 2 días"
+    },
+    "gastos_envio": 4000,
+    "opciones_entrega": ["envío postal", "recogida en tienda"],
+    "enlace_informacion_cambios_devoluciones": "InformacionCambios.html",
+    "enlace_contacto_ayuda": "Contacto.html",
+    "garantia_producto": "40 días",
+    "reseña_usuarios": {
+      "valoracion_media": 4,
+      "reseñas": [
+        {
+          "usuario": "Joshua Montenegro",
+          "comentario": "Lindo diseño.",
+          "estrellas": 4
+        },
+        {
+          "usuario": "Kiara Marín",
+          "comentario": "Un diseño simple, pero muy elegante.",
+          "estrellas": 4
+        }
+      ]
+    }
+  },
+ {
+    "id": 10,
+    "nombre": "Camiseta España 22",
+    "tallas_disponibles": ["S", "M", "L", "XL"],
+    "categoria": "selección",
+    "imagen_destacada": "https://assets.adidas.com/images/w_1880,f_auto,q_auto/441bfecee2894233b078aefd00dfd946_9366/HE2021_HM1.jpg",
+    "precio": 43600,
+    "stock": "disponible online y en tienda física",
+    "descripcion": "Camiseta unisex oficial de la selección española para el mundial de Qatar 2022”,
+    "galeria_imagenes": [    "https://assets.adidas.com/images/w_1880,f_auto,q_auto/97f3c8d4a2744398834caefd00dfe0b2_9366/HE2021_HM3_hover.jpg",     "https://assets.adidas.com/images/w_1880,f_auto,q_auto/a1f071597c5d469abd01aefd00dffc6e_9366/HE2021_HM4.jpg",      "https://assets.adidas.com/images/w_1880,f_auto,q_auto/f51b34dc86ec4513bc7faefd00e0213c_9366/HE2021_HM5.jpg"
+    ],
+    "tiempos_entrega": {
+      "envio_postal": "3-5 días laborables",
+      "recogida_en_tienda": "Disponible en 2 días"
+    },
+    "gastos_envio": 4000,
+    "opciones_entrega": ["envío postal", "recogida en tienda"],
+    "enlace_informacion_cambios_devoluciones": "InformacionCambios.html",
+    "enlace_contacto_ayuda": "Contacto.html",
+    "garantia_producto": "40 días",
+    "reseña_usuarios": {
+      "valoracion_media": 5,
+      "reseñas": [
+        {
+          "usuario": "Diego Campos",
+          "comentario": "Excelente camisa, de las mejores que he visto.",
+          "estrellas": 5
+        },
+        {
+          "usuario": "Anderson Canhoto",
+          "comentario": "Me gusta mucho, de mis favoritas.",
+          "estrellas": 5
+        }
+      ]
+    }
+  },
+ {
+    "id": 11,
+    "nombre": "Camiseta local Argentina 24",
+    "tallas_disponibles": ["S", "M", "L", "XL"],
+    "categoria": "selección",
+    "imagen_destacada": "https://assets.adidas.com/images/w_1880,f_auto,q_auto/290b5d8860c94a6c868a275e70c3c8cb_9366/IP8388_HM1.jpg",
+    "precio": 50000,
+    "stock": "disponible online y en tienda física",
+    "descripcion": "Camiseta unisex oficial de la selección argentina para el 2024”,
+    "galeria_imagenes": [    "https://assets.adidas.com/images/w_1880,f_auto,q_auto/b410915f07544c19aab9561d2011b85d_9366/IP8386_21_model.jpg",      
+"https://assets.adidas.com/images/w_1880,f_auto,q_auto/91847e9f3ac5443c9d5b478cf8800dcc_9366/IP8388_HM3_hover.jpg",     "https://assets.adidas.com/images/w_1880,f_auto,q_auto/e4c13a01b4c448cc85e6722dddd68ba4_9366/IP8388_HM5.jpg"
+    ],
+    "tiempos_entrega": {
+      "envio_postal": "3-5 días laborables",
+      "recogida_en_tienda": "Disponible en 2 días"
+    },
+    "gastos_envio": 4000,
+    "opciones_entrega": ["envío postal", "recogida en tienda"],
+    "enlace_informacion_cambios_devoluciones": "InformacionCambios.html",
+    "enlace_contacto_ayuda": "Contacto.html",
+    "garantia_producto": "40 días",
+    "reseña_usuarios": {
+      "valoracion_media": 5,
+      "reseñas": [
+        {
+          "usuario": "Pablo Gabas",
+          "comentario": "Hermosa camisa.",
+          "estrellas": 5
+        },
+        {
+          "usuario": "Angélica Meléndez",
+          "comentario": "Demasiado bonita la camisa de la actual campeona del mundo.",
+          "estrellas": 5
+        }
+      ]
+    }
+  },
+ {
+    "id": 12,
+    "nombre": "Camiseta visitante Francia 24",
+    "tallas_disponibles": ["S", "M", "L", "XL"],
+    "categoria": "selección",
+    "imagen_destacada": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/52b5dd5e-f3ac-4f69-9c55-70ecb589e6a8/FFF+M+NK+DF+STAD+JSY+SS+AW.png",
+    "precio": 46000,
+    "stock": "disponible online y en tienda física",
+    "descripcion": "Camiseta unisex segunda equipación de la selección francesa para el 2024”,
+    "galeria_imagenes": [    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a1a7539f-338b-4d2e-91b4-47e0242f927b/FFF+M+NK+DF+STAD+JSY+SS+AW.png",     "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6f493db6-51d6-4026-8930-2d443b59f2d7/FFF+M+NK+DF+STAD+JSY+SS+AW.png",     "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8bb39404-bbdb-4f74-80dc-b43fc85401bf/FFF+M+NK+DF+STAD+JSY+SS+AW.png"
+    ],
+    "tiempos_entrega": {
+      "envio_postal": "3-5 días laborables",
+      "recogida_en_tienda": "Disponible en 2 días"
+    },
+    "gastos_envio": 4000,
+    "opciones_entrega": ["envío postal", "recogida en tienda"],
+    "enlace_informacion_cambios_devoluciones": "InformacionCambios.html",
+    "enlace_contacto_ayuda": "Contacto.html",
+    "garantia_producto": "40 días",
+    "reseña_usuarios": {
+      "valoracion_media": 4,
+      "reseñas": [
+        {
+          "usuario": "Valentina López",
+          "comentario": "Me gusta, muy cómoda.",
+          "estrellas": 4
+        },
+        {
+          "usuario": "Mario Quesada",
+          "comentario": "Lindo diseño, me gustaría que fuera más colorida.",
+          "estrellas": 4
+        }
+      ]
+    }
+  }
+]
