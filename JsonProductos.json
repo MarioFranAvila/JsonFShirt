@@ -148,7 +148,7 @@
           "estrellas": 5
         },
         {
-          "usuario": “Dana Chavarría",
+          "usuario": "Dana Chavarría",
           "comentario": "Me gusta que sea talla unisex, pensé que solo sería para hombre.",
           "estrellas": 5
         }
@@ -216,7 +216,7 @@
     "opciones_entrega": ["envío postal", "recogida en tienda"],
    "enlace_informacion_cambios_devoluciones": "InformacionCambios.html",
     "enlace_contacto_ayuda": "Contacto.html",
-    "garantia_producto": “40 días",
+    "garantia_producto": "40 días",
     "reseña_usuarios": {
       "valoracion_media": 5,
       "reseñas": [
@@ -238,10 +238,10 @@
     "nombre": "Camiseta local Japón 24",
     "tallas_disponibles": ["S", "M", "L", "XL"],
     "categoria": "selección",
-    "imagen_destacada": “https://assets.adidas.com/images/w_1880,f_auto,q_auto/add10ec3545345cb8222aa948abb2d7c_9366/IU0964_21_model.jpg”,
+    "imagen_destacada": "https://assets.adidas.com/images/w_1880,f_auto,q_auto/add10ec3545345cb8222aa948abb2d7c_9366/IU0964_21_model.jpg",
     "precio": 44200,
     "stock": "disponible online y en tienda física",
-    "descripcion": "Camiseta unisex oficial de la selección japonesa para el 2024”,
+    "descripcion": "Camiseta unisex oficial de la selección japonesa para el 2024",
     "galeria_imagenes": [
 "https://assets.adidas.com/images/w_1880,f_auto,q_auto/6bb6f0f7a8254a9fb7c7faee427940cc_9366/IU0964_22_model.jpg",  "https://assets.adidas.com/images/w_1880,f_auto,q_auto/3a99cb7befd744c7a5cfafee1d35156b_9366/IU0964_23_hover_model.jpg",   "https://assets.adidas.com/images/w_1880,f_auto,q_auto/98f1f3ef53cb4d339fcc44b0b00ab6f8_9366/IU0964_25_model.jpg"
     ],
@@ -278,7 +278,7 @@
     "imagen_destacada": "https://assets.adidas.com/images/w_1880,f_auto,q_auto/e7f82d13bcc8418e9f4d28ef9f547ce1_9366/JK0021_01_laydown.jpg",
     "precio": 40000,
     "stock": "disponible online y en tienda física",
-    "descripcion": "Camiseta unisex oficial de la selección de Costa Rica para el 2024”,
+    "descripcion": "Camiseta unisex oficial de la selección de Costa Rica para el 2024",
     "galeria_imagenes": [
 "https://i2.wp.com/www.fcrf.cr/wp-content/uploads/2024/05/1BC2372F-841F-4D03-9E7A-A1D42F87EEC9-scaled.jpeg?fit=1080%2C720&ssl=1",    "https://assets.adidas.com/images/w_1880,f_auto,q_auto/bfa7f789198e4785a40b92b77ab9f5ed_9366/JK0021_02_laydown_hover.jpg",    "https://assets.adidas.com/images/w_1880,f_auto,q_auto/8f63669fb3894e358fa48d05bea37ca7_9366/JK0021_41_detail.jpg"
     ],
@@ -315,7 +315,7 @@
     "imagen_destacada": "https://assets.adidas.com/images/w_1880,f_auto,q_auto/3a9fe486b4a448359c058e39fea5265b_9366/IT7749_HM1.jpg",
     "precio": 41200,
     "stock": "disponible online y en tienda física",
-    "descripcion": "Camiseta unisex retro, oficial de la selección Alemana en 1996”,
+    "descripcion": "Camiseta unisex retro, oficial de la selección Alemana en 1996",
     "galeria_imagenes": [   "https://assets.adidas.com/images/w_1880,f_auto,q_auto/712667a06a3b4f3eafad81a5ebd21194_9366/IT7749_HM4_hover.jpg",    "https://assets.adidas.com/images/w_1880,f_auto,q_auto/8890f8e200c24ab8b7e7461f973febfd_9366/IT7749_HM5.jpg",    "https://assets.adidas.com/images/w_1880,f_auto,q_auto/6c8441b3dab7466ab17fd62bd517f619_9366/IT7749_HM6.jpg"
     ],
     "tiempos_entrega": {
@@ -351,7 +351,7 @@
     "imagen_destacada": "https://assets.adidas.com/images/w_1880,f_auto,q_auto/441bfecee2894233b078aefd00dfd946_9366/HE2021_HM1.jpg",
     "precio": 43600,
     "stock": "disponible online y en tienda física",
-    "descripcion": "Camiseta unisex oficial de la selección española para el mundial de Qatar 2022”,
+    "descripcion": "Camiseta unisex oficial de la selección española para el mundial de Qatar 2022",
     "galeria_imagenes": [    "https://assets.adidas.com/images/w_1880,f_auto,q_auto/97f3c8d4a2744398834caefd00dfe0b2_9366/HE2021_HM3_hover.jpg",     "https://assets.adidas.com/images/w_1880,f_auto,q_auto/a1f071597c5d469abd01aefd00dffc6e_9366/HE2021_HM4.jpg",      "https://assets.adidas.com/images/w_1880,f_auto,q_auto/f51b34dc86ec4513bc7faefd00e0213c_9366/HE2021_HM5.jpg"
     ],
     "tiempos_entrega": {
@@ -387,7 +387,7 @@
     "imagen_destacada": "https://assets.adidas.com/images/w_1880,f_auto,q_auto/290b5d8860c94a6c868a275e70c3c8cb_9366/IP8388_HM1.jpg",
     "precio": 50000,
     "stock": "disponible online y en tienda física",
-    "descripcion": "Camiseta unisex oficial de la selección argentina para el 2024”,
+    "descripcion": "Camiseta unisex oficial de la selección argentina para el 2024",
     "galeria_imagenes": [    "https://assets.adidas.com/images/w_1880,f_auto,q_auto/b410915f07544c19aab9561d2011b85d_9366/IP8386_21_model.jpg",      
 "https://assets.adidas.com/images/w_1880,f_auto,q_auto/91847e9f3ac5443c9d5b478cf8800dcc_9366/IP8388_HM3_hover.jpg",     "https://assets.adidas.com/images/w_1880,f_auto,q_auto/e4c13a01b4c448cc85e6722dddd68ba4_9366/IP8388_HM5.jpg"
     ],
@@ -424,7 +424,7 @@
     "imagen_destacada": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/52b5dd5e-f3ac-4f69-9c55-70ecb589e6a8/FFF+M+NK+DF+STAD+JSY+SS+AW.png",
     "precio": 46000,
     "stock": "disponible online y en tienda física",
-    "descripcion": "Camiseta unisex segunda equipación de la selección francesa para el 2024”,
+    "descripcion": "Camiseta unisex segunda equipación de la selección francesa para el 2024",
     "galeria_imagenes": [    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a1a7539f-338b-4d2e-91b4-47e0242f927b/FFF+M+NK+DF+STAD+JSY+SS+AW.png",     "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6f493db6-51d6-4026-8930-2d443b59f2d7/FFF+M+NK+DF+STAD+JSY+SS+AW.png",     "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8bb39404-bbdb-4f74-80dc-b43fc85401bf/FFF+M+NK+DF+STAD+JSY+SS+AW.png"
     ],
     "tiempos_entrega": {
