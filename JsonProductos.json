@@ -26,12 +26,12 @@
       "valoracion_media": 5,
       "reseñas": [
         {
-          "usuario": "Pablo Jimenez",
+          "usuario": "Pablo Jiménez",
           "comentario": "Me gustó mucho, muy buenas camisas.",
           "estrellas": 5
         },
         {
-          "usuario": "Jose Perez",
+          "usuario": "Jose Pérez",
           "comentario": "Todo bien, aunque tenía unos detalles en la manga.",
           "estrellas": 5
         }
@@ -109,7 +109,7 @@
           "estrellas": 3
         },
         {
-          "usuario": "Cristian Sanchez",
+          "usuario": "Cristian Sánchez",
           "comentario": "Todo en buen estado, ni un defecto, 10/10.",
           "estrellas": 5
         }
